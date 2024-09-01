@@ -1,2 +1,1 @@
-# testing
-# ansible
+#This is for the ansible example series
